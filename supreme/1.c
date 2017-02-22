@@ -9,10 +9,6 @@ int main()
 		printf("\nEnter the element : ");
 		scanf("%d",&a[i]);
 	}
-	for(j=0;j<n;j++)
-	{
-		printf("%d ",a[j]);
-	}
 	for(i=0;i<n;i++)
 	{f=0;
 		for(l=0;l<k;l++)
